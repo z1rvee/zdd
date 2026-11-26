@@ -1,0 +1,8 @@
+Package: com.example.luarunner
+Name: LuaRunner
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Lua fayli secib calisdiran dylib
+Maintainer: dev
+Author: dev
+Section: Tweaks
